@@ -1,0 +1,10 @@
+import os, sys
+sys.path.append("/home/zhangweibin/pikaenv1/lib/python2.7/site-packages")
+
+base_dir = os.path.dirname(os.path.abspath(__file__))
+print base_dir
+sys.path.append(base_dir)
+
+export PYTHONPATH=$PYTHONPATH:/home/zhangweibin/api_auto
+
+python3.7env
