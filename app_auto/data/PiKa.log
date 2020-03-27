@@ -1,0 +1,731 @@
+2019-04-26 13:05:39,914 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:03:10,137 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:11:03,743 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:13:18,077 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:14:08,546 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:15:55,316 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:16:48,499 - hand_pwd - Log_method.py- ERROR - u have no login
+2019-04-26 14:16:53,291 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:17:55,309 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:19:11,262 - hand_pwd - Log_method.py- DEBUG - 启动
+2019-04-26 14:19:11,662 - hand_pwd - Log_method.py- DEBUG - 启动监听
+2019-04-26 14:19:12,687 - hand_pwd - Log_method.py- ERROR - u have no login
+2019-04-26 14:19:17,453 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:20:03,808 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:20:36,484 - hand_pwd - Log_method.py- ERROR - u have no login
+2019-04-26 14:20:41,198 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:22:02,363 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:24:20,704 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 14:38:38,820 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:48:11,043 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:52:48,014 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:53:13,606 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:54:10,483 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:54:34,823 - login - Log_method.py- DEBUG - 10位获取验证码失败----pass
+2019-04-26 14:55:40,842 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:55:51,064 - login - Log_method.py- DEBUG - 10位获取验证码失败----pass
+2019-04-26 14:56:01,660 - login - Log_method.py- DEBUG - 无权限获取验证码----pass
+2019-04-26 14:56:11,798 - login - Log_method.py- DEBUG - 非数字获取验证码失败----pass
+2019-04-26 14:56:18,828 - login - Log_method.py- DEBUG - 为空获取验证码失败----pass
+2019-04-26 14:59:07,697 - login - Log_method.py- DEBUG - 清除按钮可用----pass
+2019-04-26 14:59:18,410 - login - Log_method.py- DEBUG - 10位获取验证码失败----pass
+2019-04-26 14:59:29,267 - login - Log_method.py- DEBUG - 无权限获取验证码----pass
+2019-04-26 14:59:39,408 - login - Log_method.py- DEBUG - 非数字获取验证码失败----pass
+2019-04-26 14:59:46,461 - login - Log_method.py- DEBUG - 为空获取验证码失败----pass
+2019-04-26 15:00:59,868 - login - Log_method.py- DEBUG - 获取验证码后可以重新获取----pass
+2019-04-26 15:01:14,849 - login - Log_method.py- DEBUG - 获取验证码置灰不可点击----pass
+2019-04-26 15:01:29,423 - login - Log_method.py- DEBUG - 输入无效验证码登录失败----pass
+2019-04-26 15:02:02,663 - login - Log_method.py- DEBUG - 验证码为空格登录失败----pass
+2019-04-26 15:02:12,710 - login - Log_method.py- DEBUG - 验证码为空登录失败----pass
+2019-04-26 15:20:44,832 - hand_pwd - Log_method.py- DEBUG - u have no login
+2019-04-26 15:20:49,596 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 15:30:21,854 - hand_pwd - Log_method.py- DEBUG - u have no login
+2019-04-26 15:30:26,639 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 15:31:47,578 - hand_pwd - Log_method.py- DEBUG - u have no login
+2019-04-26 15:31:52,328 - hand_pwd - Log_method.py- DEBUG - 正确手势登录成功---pass
+2019-04-26 15:33:52,123 - hand_pwd - Log_method.py- DEBUG - u have no login
+2019-04-26 15:36:11,436 - hand_pwd - Log_method.py- DEBUG - u have no login
+2019-04-26 15:36:16,206 - hand_pwd - Log_method.py- ERROR - <uiautomator2.session.UiObject object at 0x0000028E32A23BE0> is not false : 正确手势登录成功---fail
+2019-04-26 15:52:04,382 - login - Log_method.py- ERROR - False is not true : 输入不正确验证码登录失败----fail
+2019-04-26 15:59:10,210 - hand_pwd - Log_method.py- ERROR - <uiautomator2.session.UiObject object at 0x000002A63E354E10> is not true : 输入不足4个点的提示---fail
+2019-04-26 16:00:19,961 - hand_pwd - Log_method.py- ERROR - <uiautomator2.session.UiObject object at 0x000001D602480FD0> is not true : 输入不足4个点的提示---fail
+2019-04-26 16:45:22,411 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-26 16:48:36,835 - login - Log_method.py- DEBUG - -32002 Client error: <> data: , method: None
+2019-04-26 16:48:53,164 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-26 16:49:09,536 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-26 16:49:19,494 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-26 20:00:50,239 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:00:50,990 - hand_pwd - Log_method.py- DEBUG - 进入工单处理
+2019-04-26 20:00:53,611 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:00:59,279 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:00:59,499 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:06:11,384 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:06:12,129 - hand_pwd - Log_method.py- DEBUG - 进入工单处理
+2019-04-26 20:06:20,438 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:06:20,717 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:06:27,778 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-26 20:23:19,545 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:23:20,284 - hand_pwd - Log_method.py- DEBUG - 进入工单处理
+2019-04-26 20:23:27,083 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:23:27,282 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:23:31,103 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-26 20:23:38,611 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-26 20:23:43,983 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-26 20:23:55,689 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-26 20:24:00,609 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-26 20:33:42,652 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:33:43,417 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-26 20:33:45,979 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:33:51,317 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:33:51,548 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:34:25,264 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:34:26,016 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-26 20:34:28,576 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:34:33,125 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:34:33,335 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:34:37,086 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-26 20:34:39,456 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-26 20:34:40,575 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-26 20:34:44,304 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-26 20:34:52,365 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-26 20:34:53,985 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-26 20:34:56,543 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-26 20:35:36,154 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:35:36,908 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-26 20:35:40,657 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:35:44,676 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:35:44,895 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:36:23,667 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:36:24,411 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-26 20:36:29,020 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:36:35,727 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:36:35,998 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:36:39,047 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-26 20:36:40,617 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-26 20:36:41,267 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-26 20:36:44,796 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-26 20:36:52,455 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-26 20:36:54,195 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-26 20:36:57,254 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-26 20:39:06,441 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:39:07,195 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-26 20:39:11,626 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:39:17,453 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:39:17,703 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:40:09,517 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:40:10,266 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-26 20:40:14,886 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:40:19,115 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:40:19,394 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-26 20:40:23,184 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-26 20:40:29,575 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-26 20:40:35,655 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-26 20:40:47,635 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-26 20:40:52,293 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-26 20:41:00,593 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-26 20:41:07,225 - hand_pwd - Log_method.py- DEBUG - 待分配工单受理成功
+2019-04-26 20:41:10,791 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-26 20:44:40,011 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-26 20:44:40,763 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-26 20:44:45,461 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-26 20:44:51,924 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-26 20:44:52,141 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 11:21:46,750 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:21:47,678 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 11:21:57,038 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 11:21:57,267 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 11:22:00,296 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 11:22:01,238 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 11:22:01,818 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 11:22:03,597 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 11:22:08,767 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 11:22:09,678 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 11:22:11,967 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 11:22:15,915 - hand_pwd - Log_method.py- DEBUG - 待分配工单受理成功
+2019-04-28 11:22:18,638 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-28 11:29:03,902 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:29:04,763 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 11:29:14,288 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 11:29:14,548 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 11:29:18,118 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 11:29:21,047 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 11:29:22,079 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 11:29:25,398 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 11:29:32,400 - hand_pwd - Log_method.py- DEBUG - 添加备注成功
+2019-04-28 11:29:35,098 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 11:29:36,628 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 11:29:39,748 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 11:29:44,116 - hand_pwd - Log_method.py- DEBUG - 待分配工单受理成功
+2019-04-28 11:31:49,111 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:31:50,032 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 11:31:54,582 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-28 11:31:59,491 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 11:31:59,732 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 11:33:09,254 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:33:11,184 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 11:33:16,052 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-28 11:33:22,232 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 11:33:22,482 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 11:33:26,351 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 11:33:27,884 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 11:33:29,102 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 11:33:31,001 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 11:33:33,602 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-28 11:33:36,414 - hand_pwd - Log_method.py- DEBUG - 添加备注成功
+2019-04-28 11:33:39,541 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 11:33:40,899 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 11:33:44,860 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 11:33:49,428 - hand_pwd - Log_method.py- DEBUG - 待分配工单受理成功
+2019-04-28 11:33:52,269 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-28 11:36:33,989 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:40:57,388 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:40:59,941 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 11:41:00,191 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 11:42:26,725 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:42:29,272 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 11:42:29,541 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 11:43:27,458 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:43:30,011 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 11:43:32,204 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 11:43:34,192 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 11:44:45,686 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:44:48,292 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 11:44:50,471 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 11:44:51,802 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 11:44:59,171 - hand_pwd - Log_method.py- ERROR - 分配后状态没有变更
+2019-04-28 11:46:51,918 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:46:54,551 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 11:46:56,738 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 11:46:57,811 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 11:48:32,676 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:48:35,246 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 11:48:37,425 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 11:48:38,607 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 11:51:25,240 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 11:51:27,789 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 11:51:29,988 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 11:51:31,238 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 16:12:30,786 - login - Log_method.py- DEBUG - -32002 Client error: <> data: , method: None
+2019-04-28 16:12:58,824 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-28 16:13:27,718 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-28 16:13:47,621 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-28 16:18:52,722 - login - Log_method.py- DEBUG - -32002 Client error: <> data: , method: None
+2019-04-28 16:19:08,217 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-28 16:19:23,404 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-28 16:19:32,494 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-04-28 17:08:52,631 - hand_pwd - Log_method.py- ERROR - u have no login
+2019-04-28 17:08:56,263 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 17:08:58,090 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 17:10:41,654 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 17:10:43,520 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 17:10:52,410 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 17:10:52,650 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 17:10:56,361 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 17:10:59,029 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 17:11:01,119 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 17:11:03,672 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 17:11:06,330 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-28 17:11:11,150 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 17:11:12,870 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 17:11:15,599 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 17:11:21,781 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-28 17:11:24,351 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 17:11:26,561 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 17:11:27,961 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 17:13:50,969 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 17:13:52,892 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 17:13:59,872 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 17:14:00,153 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 17:14:03,362 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 17:14:04,823 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 17:14:05,483 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 17:14:09,033 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 17:14:11,683 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-28 17:14:16,952 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 17:14:18,555 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 17:14:21,563 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 17:14:28,023 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-28 17:14:30,574 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 17:14:32,752 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 17:14:34,023 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:05:07,273 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:05:09,959 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:05:12,178 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:05:14,738 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:07:17,387 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:07:20,007 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:07:22,206 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:07:23,306 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:07:39,559 - hand_pwd - Log_method.py- ERROR - 分配后状态没有变更
+2019-04-28 20:13:17,120 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:13:19,654 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:13:21,885 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:13:23,316 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:13:41,917 - hand_pwd - Log_method.py- ERROR - 分配后状态没有变更
+2019-04-28 20:23:36,228 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:23:38,799 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:23:41,007 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:23:42,377 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:23:57,073 - hand_pwd - Log_method.py- DEBUG - 分配成功
+2019-04-28 20:24:00,073 - hand_pwd - Log_method.py- ERROR - 分配后状态没有变更
+2019-04-28 20:26:07,160 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:26:09,103 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:26:16,260 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 20:26:16,480 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 20:26:19,710 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 20:26:20,840 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 20:26:21,470 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 20:26:24,779 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 20:26:27,860 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-28 20:26:34,190 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 20:26:35,528 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 20:26:39,988 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 20:26:46,448 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-28 20:26:48,986 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:26:51,157 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:26:52,328 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:27:11,102 - hand_pwd - Log_method.py- DEBUG - 分配成功
+2019-04-28 20:27:14,620 - hand_pwd - Log_method.py- ERROR - 分配后状态没有变更
+2019-04-28 20:39:41,183 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:39:43,092 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:39:47,330 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-28 20:39:51,469 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 20:39:51,689 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 20:40:16,244 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:40:18,148 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:40:22,497 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-28 20:40:27,057 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 20:40:27,287 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 20:40:30,686 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 20:40:32,126 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 20:40:32,796 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 20:40:35,326 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 20:40:37,986 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-28 20:40:43,275 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 20:40:44,576 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 20:40:47,775 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 20:40:54,874 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-28 20:40:57,435 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:40:59,603 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:41:01,573 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:41:16,802 - hand_pwd - Log_method.py- DEBUG - 分配成功
+2019-04-28 20:44:09,740 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:44:12,288 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:44:14,488 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:44:15,907 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:44:32,156 - hand_pwd - Log_method.py- DEBUG - 分配成功
+2019-04-28 20:49:05,498 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:49:07,403 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:49:12,033 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-28 20:49:21,141 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 20:49:21,362 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 20:50:38,824 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:51:13,887 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:52:50,964 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:52:52,856 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:52:58,375 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-28 20:53:30,429 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:53:42,032 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:54:04,929 - hand_pwd - Log_method.py- DEBUG - 关闭仅看我处理
+2019-04-28 20:54:38,325 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:54:45,036 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:55:41,253 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:55:52,014 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:58:55,902 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-28 20:58:58,800 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-28 20:59:09,387 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-28 20:59:09,686 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-28 20:59:13,447 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-28 20:59:14,528 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-28 20:59:15,336 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-28 20:59:17,819 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-28 20:59:20,436 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-28 20:59:25,186 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-28 20:59:26,535 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-28 20:59:29,425 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-28 20:59:36,696 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-28 20:59:39,336 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-28 20:59:41,517 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-28 20:59:42,834 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-28 20:59:57,863 - hand_pwd - Log_method.py- DEBUG - 分配成功
+2019-04-29 14:36:49,493 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-29 14:36:52,376 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-29 14:37:01,443 - hand_pwd - Log_method.py- DEBUG - 选中待分配标签确定
+2019-04-29 14:37:01,713 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-29 14:37:05,561 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-29 14:37:07,201 - hand_pwd - Log_method.py- DEBUG - 复制工单编号成功
+2019-04-29 14:37:08,121 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-29 14:37:10,239 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-29 14:37:12,849 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-29 14:37:14,905 - hand_pwd - Log_method.py- DEBUG - 添加备注成功
+2019-04-29 14:37:17,239 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-29 14:37:18,190 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-29 14:37:20,887 - hand_pwd - Log_method.py- DEBUG - 第二次点击受理
+2019-04-29 14:37:27,318 - hand_pwd - Log_method.py- DEBUG - 验证受理成功
+2019-04-29 14:37:29,887 - hand_pwd - Log_method.py- DEBUG - 返回列表页
+2019-04-29 14:37:32,116 - hand_pwd - Log_method.py- DEBUG - 再次进入工单详情页
+2019-04-29 14:37:34,315 - hand_pwd - Log_method.py- DEBUG - 点击分配工单
+2019-04-29 14:37:49,094 - hand_pwd - Log_method.py- DEBUG - 分配成功
+2019-04-29 21:07:59,570 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-29 21:08:02,442 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-29 21:08:12,447 - hand_pwd - Log_method.py- DEBUG - 选中待受理标签确定
+2019-04-29 21:08:12,666 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-29 21:08:28,936 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-29 21:08:59,406 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-29 21:09:20,395 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-29 21:09:23,059 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-29 21:09:36,162 - hand_pwd - Log_method.py- DEBUG - 添加备注成功
+2019-04-29 21:09:50,466 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-29 21:10:09,566 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-30 09:59:41,275 - hand_pwd - Log_method.py- DEBUG - 手势密码解锁成功
+2019-04-30 09:59:44,220 - hand_pwd - Log_method.py- DEBUG - 进入工单处理列表
+2019-04-30 09:59:57,839 - hand_pwd - Log_method.py- DEBUG - 选中待受理标签确定
+2019-04-30 09:59:58,060 - hand_pwd - Log_method.py- DEBUG - 进入工单详情页
+2019-04-30 10:00:13,759 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单信息
+2019-04-30 10:00:41,338 - hand_pwd - Log_method.py- DEBUG - 开始添加备注
+2019-04-30 10:01:01,139 - hand_pwd - Log_method.py- DEBUG - 输入内容点击返回显示
+2019-04-30 10:01:03,759 - hand_pwd - Log_method.py- DEBUG - 取消保留了备注内容
+2019-04-30 10:01:12,542 - hand_pwd - Log_method.py- DEBUG - 添加备注成功
+2019-04-30 10:01:21,139 - hand_pwd - Log_method.py- DEBUG - 点击跳转到工单流转内容
+2019-04-30 10:01:35,959 - hand_pwd - Log_method.py- DEBUG - 添加备注成功，点击全部显示收起
+2019-04-30 10:29:39,927 - login - Log_method.py- ERROR - <uiautomator2.session.UiObject object at 0x00000143FF49D518> is not '1234567890' : 清除按钮可用----fail
+2019-04-30 10:35:12,050 - login - Log_method.py- ERROR - False is not true : 输入无效验证码登录失败----fail
+2019-04-30 10:35:36,076 - login - Log_method.py- ERROR - False is not true : 验证码为空格登录失败----fail
+2019-05-08 12:45:18,542 - hand_pwd - Log_method.py- ERROR - False is not true : 输入超过数字提示----fail
+2019-05-08 12:46:44,066 - hand_pwd - Log_method.py- ERROR - False is not true : 输入超过数字提示----fail
+2019-05-08 17:36:40,261 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-08 17:37:14,980 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-08 17:38:10,420 - login - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-08 17:42:29,958 - login - Log_method.py- ERROR - False is not true : 08-输入无效验证码登录失败----fail
+2019-05-08 17:43:20,140 - login - Log_method.py- ERROR - False is not true : 10-验证码为空格登录失败----fail
+2019-05-09 17:16:30,001 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-09 17:19:07,516 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-10 11:47:08,541 - hand_pwd - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-05-13 20:13:55,733 - login - Log_method.py- ERROR - False is not true : 08-输入无效验证码登录失败----fail
+2019-05-13 20:14:43,913 - login - Log_method.py- ERROR - False is not true : 10-验证码为空格登录失败----fail
+2019-05-13 20:19:25,268 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-13 20:20:00,684 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-15 15:55:40,236 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-15 15:56:29,416 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-15 17:07:12,948 - hand_pwd - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-05-15 17:15:25,227 - hand_pwd - Log_method.py- ERROR - False is not true : 权限配置--fail
+2019-05-15 17:17:45,673 - hand_pwd - Log_method.py- ERROR - False is not true : 模板长度调整--fail
+2019-05-15 17:21:44,662 - hand_pwd - Log_method.py- ERROR - False is not true : 推广包催促--fail
+2019-05-15 17:23:24,455 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-22 20:28:11,488 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-22 20:47:35,839 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-22 20:48:23,569 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-22 20:49:22,516 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-22 20:50:09,520 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-05-22 20:50:57,005 - hand_pwd - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-03 17:57:42,505 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 17:58:24,494 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 17:59:02,972 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 17:59:28,103 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:00:09,710 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:00:35,384 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:01:07,785 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-03 18:01:09,807 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:01:47,665 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:02:26,755 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:02:57,481 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-03 18:02:59,594 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:03:36,913 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:04:15,492 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:04:54,201 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:05:32,179 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:06:10,740 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:06:47,887 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:07:12,132 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:07:47,895 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:08:27,243 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:08:50,650 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:09:29,533 - Hig_Search - Log_method.py- ERROR - False is not true : 权限配置--fail
+2019-06-03 18:09:31,492 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:10:05,794 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:10:41,373 - Hig_Search - Log_method.py- ERROR - False is not true : 你自己玩--fail
+2019-06-03 18:10:43,481 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:11:21,740 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:12:10,556 - Hig_Search - Log_method.py- ERROR - False is not true : 模板长度调整--fail
+2019-06-03 18:12:12,701 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:13:01,697 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:13:25,961 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:14:12,745 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:14:38,688 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:15:26,123 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:15:50,862 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:16:38,692 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:17:28,280 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:18:19,270 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:19:08,388 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:19:32,843 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:20:19,115 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:21:07,506 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 18:21:58,713 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-03 18:22:23,002 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-03 18:23:23,233 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-03 18:23:48,425 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-06-03 18:24:43,319 - work_order1 - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-03 18:24:45,311 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-06-03 18:25:08,624 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-03 18:26:32,840 - work_order2 - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-03 18:26:34,949 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-03 18:26:59,102 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-03 18:28:32,205 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-03 18:28:55,312 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-03 18:30:25,143 - work_order3 - Log_method.py- DEBUG - 已退回工单
+2019-06-03 18:31:57,523 - work_order4 - Log_method.py- DEBUG - 处理完成工单
+2019-06-03 20:54:46,402 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 20:55:24,060 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 20:57:23,297 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-03 20:58:00,069 - Hig_Search - Log_method.py- DEBUG - ok
+2019-06-03 20:58:00,070 - Hig_Search - Log_method.py- DEBUG - ok_ok
+2019-06-03 20:58:02,308 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 16:14:05,685 - login - Log_method.py- DEBUG - pass
+2019-06-04 17:17:18,820 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:18:05,735 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:18:32,549 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:19:14,140 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:19:50,161 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-04 17:19:52,560 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:20:37,340 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:21:04,241 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:21:40,469 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-04 17:21:42,714 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:22:28,151 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:23:12,461 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:23:36,481 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:24:04,168 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:24:31,918 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:25:17,915 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:25:49,308 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:26:17,580 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:26:45,197 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:27:15,086 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:27:55,989 - Hig_Search - Log_method.py- ERROR - False is not true : 权限配置--fail
+2019-06-04 17:27:58,106 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:28:40,305 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:29:23,944 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:29:48,200 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:30:29,148 - Hig_Search - Log_method.py- ERROR - False is not true : 模板长度调整--fail
+2019-06-04 17:30:31,236 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:30:57,893 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:31:37,316 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:32:07,344 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:32:52,956 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:33:18,158 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:33:46,629 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:34:30,122 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:35:13,884 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:36:00,160 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:36:43,104 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:37:10,092 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:37:51,576 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:38:18,606 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-04 17:38:47,272 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-04 17:39:15,361 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-04 17:40:02,981 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-04 17:41:06,646 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-06-04 17:41:31,639 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-06-04 17:42:23,638 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-04 17:42:52,989 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-04 17:43:21,701 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-04 17:44:37,046 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-04 17:45:04,454 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-04 17:46:24,426 - work_order3 - Log_method.py- DEBUG - 已退回工单
+2019-06-04 17:46:49,634 - work_order4 - Log_method.py- DEBUG - 处理完成工单
+2019-06-17 19:46:44,406 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:47:13,016 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:47:29,236 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:47:57,755 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:48:39,256 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:49:21,768 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:50:02,953 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:50:43,463 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:51:23,052 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:51:52,131 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:52:25,520 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-17 19:52:27,595 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:53:08,374 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:53:41,220 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-17 19:53:43,510 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:54:16,091 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-17 19:54:18,340 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:54:47,318 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:55:29,866 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:56:10,546 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:56:39,267 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-17 19:57:20,814 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:52:05,795 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:52:36,882 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 09:52:39,148 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:53:20,445 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:53:49,016 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:54:30,657 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:54:59,539 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:55:34,060 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-20 09:55:36,143 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:56:05,074 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:56:45,988 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:57:14,438 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:57:54,933 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:58:23,753 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:59:04,189 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 09:59:35,147 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 09:59:37,309 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:00:05,962 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:00:44,327 - Hig_Search - Log_method.py- ERROR - False is not true : 数据相关--fail
+2019-06-20 10:00:46,406 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:01:14,905 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:01:53,503 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:02:23,527 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:02:25,773 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:02:54,604 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:03:34,179 - Hig_Search - Log_method.py- ERROR - False is not true : 权限配置--fail
+2019-06-20 10:03:36,240 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:04:04,736 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:04:37,287 - Hig_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-06-20 10:04:39,299 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:05:08,378 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:05:48,077 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:06:16,793 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:06:55,764 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:07:24,487 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:07:55,354 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:07:57,462 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:08:28,207 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:08:30,504 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:09:01,080 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:09:03,340 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:09:31,989 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:10:13,318 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:10:45,756 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:10:47,990 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:11:16,944 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:11:49,218 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:11:51,388 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:12:20,306 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:12:51,736 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:12:53,836 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-06-20 10:13:24,700 - Hig_Search - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-06-20 10:13:26,941 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-20 10:13:53,745 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-20 10:14:21,464 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-06-20 10:14:48,837 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-06-20 10:15:16,563 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-06-20 10:15:47,849 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-20 10:16:17,812 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-20 10:16:48,502 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-20 10:17:18,791 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-20 10:17:48,536 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-06-20 10:18:18,452 - work_order3 - Log_method.py- DEBUG - 已退回工单
+2019-06-20 10:18:48,708 - work_order4 - Log_method.py- DEBUG - 处理完成工单
+2019-07-16 17:37:26,892 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-07-16 17:38:12,949 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-07-16 17:53:01,881 - Hig_Search - Log_method.py- DEBUG - 搜索工单
+2019-07-16 17:53:28,477 - Hig_Search - Log_method.py- ERROR - False is not true : 工单搜索----fail
+2019-07-16 17:54:53,748 - Hig_Search - Log_method.py- DEBUG - 搜索工单
+2019-07-16 17:55:20,668 - Hig_Search - Log_method.py- ERROR - False is not true : 工单搜索----fail
+2019-07-16 17:56:14,076 - Hig_Search - Log_method.py- DEBUG - 搜索工单
+2019-07-16 17:57:53,039 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-07-16 17:57:53,039 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-07-16 17:58:37,907 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-07-16 17:58:37,907 - Hig_Search - Log_method.py- DEBUG - 高级筛选
+2019-07-16 17:59:19,276 - Hig_Search - Log_method.py- DEBUG - 搜索工单
+2019-07-16 17:59:19,276 - Hig_Search - Log_method.py- DEBUG - 搜索工单
+2019-07-16 17:59:48,745 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-07-16 18:00:47,785 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-07-16 18:01:35,405 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-07-16 18:01:59,547 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-07-16 18:02:49,210 - work_order1 - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-07-16 18:02:51,274 - work_order1 - Log_method.py- DEBUG - 待受理工单
+2019-07-16 18:04:07,736 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 18:05:26,695 - work_order2 - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-07-16 18:05:28,923 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 18:07:16,859 - work_order2 - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-07-16 18:07:19,087 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 18:09:48,202 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 18:11:21,502 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 18:11:47,805 - work_order3 - Log_method.py- DEBUG - 已退回工单
+2019-07-16 18:13:16,301 - work_order4 - Log_method.py- DEBUG - 处理完成工单
+2019-07-16 19:14:49,128 - work_order0 - Log_method.py- DEBUG - 待分配工单
+2019-07-16 19:17:06,300 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 19:21:04,337 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 19:22:33,347 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 19:23:43,654 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 19:24:12,804 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 19:24:57,622 - work_order2 - Log_method.py- DEBUG - 处理中工单
+2019-07-16 19:35:18,300 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例01
+2019-07-16 19:35:59,838 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例02
+2019-07-16 19:36:29,959 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-07-16 19:37:15,716 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例01
+2019-07-16 19:38:10,996 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例02
+2019-07-16 19:39:00,929 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例03
+2019-07-16 19:40:01,077 - work_order1 - Log_method.py- DEBUG - 待受理工单-用例01
+2019-07-16 19:41:01,607 - work_order1 - Log_method.py- DEBUG - 待受理工单-用例02
+2019-07-16 19:42:16,584 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例02
+2019-07-16 19:43:58,341 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例04
+2019-07-16 19:45:25,878 - work_order3 - Log_method.py- DEBUG - 已退回工单-用例01
+2019-07-18 10:24:20,865 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例01
+2019-07-18 10:25:01,134 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例02
+2019-07-18 10:25:32,677 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-07-18 10:26:46,793 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例02
+2019-07-18 10:27:33,520 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例03
+2019-07-18 10:28:33,520 - work_order1 - Log_method.py- DEBUG - 待受理工单-用例01
+2019-07-18 10:29:34,980 - work_order1 - Log_method.py- DEBUG - 待受理工单-用例02
+2019-07-18 10:30:54,028 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例02
+2019-07-18 10:32:00,140 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例03
+2019-07-18 10:33:09,032 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例04
+2019-07-18 10:34:39,325 - work_order3 - Log_method.py- DEBUG - 已退回工单-用例01
+2019-07-18 10:35:37,994 - work_order4 - Log_method.py- DEBUG - 处理完成工单-用例01
+2019-07-24 17:58:14,708 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例01
+2019-07-24 17:59:57,610 - High_Search - Log_method.py- ERROR - False is not true : 数据中心--fail
+2019-07-26 15:27:22,201 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例01
+2019-07-26 15:28:01,673 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例02
+2019-07-26 15:28:12,379 - High_Search - Log_method.py- ERROR - False is not true : 数据相关--fail
+2019-07-26 15:28:31,694 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-07-26 15:29:44,052 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例02
+2019-07-26 15:30:28,541 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例03
+2019-07-26 15:31:28,304 - work_order1 - Log_method.py- DEBUG - 待受理工单-用例01
+2019-07-26 15:33:02,508 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例01
+2019-07-26 15:34:41,316 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例03
+2019-07-26 15:36:34,868 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例05
+2019-07-26 15:38:32,552 - work_order4 - Log_method.py- DEBUG - 处理完成工单-用例01
+2019-07-26 18:00:06,057 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例01
+2019-07-26 18:00:17,923 - High_Search - Log_method.py- ERROR - False is not true : 数据中心--fail
+2019-07-26 18:00:48,617 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例02
+2019-07-26 18:01:00,502 - High_Search - Log_method.py- ERROR - False is not true : 数据相关--fail
+2019-07-26 18:01:19,304 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-07-31 19:18:56,993 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-07-31 19:19:09,258 - Search_order - Log_method.py- ERROR - timeout 10.0
+2019-07-31 19:26:37,104 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-07-31 19:26:49,243 - Search_order - Log_method.py- ERROR - timeout 10.0
+2019-08-01 14:48:28,490 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-08-01 14:48:37,961 - Search_order - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-08-01 15:00:15,342 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例01
+2019-08-01 15:00:51,991 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例02
+2019-08-01 15:01:18,849 - Search_order - Log_method.py- DEBUG - 搜索工单-用例01
+2019-08-01 15:02:02,431 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例01
+2019-08-01 15:02:56,211 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例02
+2019-08-01 15:03:40,200 - work_order0 - Log_method.py- DEBUG - 待分配工单-用例03
+2019-08-01 15:04:33,000 - work_order1 - Log_method.py- DEBUG - 待受理工单-用例01
+2019-08-01 15:05:28,390 - work_order1 - Log_method.py- DEBUG - 待受理工单-用例02
+2019-08-01 15:06:18,399 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例01
+2019-08-01 15:07:21,684 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例02
+2019-08-01 15:08:28,404 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例03
+2019-08-01 15:08:33,000 - work_order2 - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-08-01 15:09:17,153 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例04
+2019-08-01 15:09:21,740 - work_order2 - Log_method.py- ERROR - -32002 Client error: <> data: , method: None
+2019-08-01 15:10:02,621 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例05
+2019-08-01 15:10:58,142 - work_order3 - Log_method.py- DEBUG - 已退回工单-用例01
+2019-08-01 15:11:57,591 - work_order4 - Log_method.py- DEBUG - 处理完成工单-用例01
+2019-08-01 15:26:08,838 - work_order2 - Log_method.py- DEBUG - 处理中工单-用例03
+2019-08-15 09:49:09,797 - High_Search - Log_method.py- DEBUG - 高级筛选测试用例-用例01
+2019-08-15 09:49:16,552 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-08-15 09:49:49,245 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-08-15 09:54:49,210 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-08-15 09:55:21,395 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-08-15 09:56:18,625 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-08-15 09:57:01,838 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-08-15 10:02:47,409 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
+2019-08-15 10:03:51,157 - High_Search - Log_method.py- ERROR - -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=重置], method: objInfo
