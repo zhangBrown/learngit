@@ -1,3 +1,4 @@
+3-28
 appium
 	java环境
 		安装，配置环境变量java_home class_path path
