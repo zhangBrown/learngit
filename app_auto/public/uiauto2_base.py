@@ -5,15 +5,19 @@ import os
 # 守护进程转发到电脑,然后可以通过本地7912端口查看
 os.system("adb forward tcp:7912 tcp:7912")
 # 获取包名adb shell logcat | findstr cmp=
-os.system("adb connect 127.0.0.1:62001")
+# usb连接
+# os.system("adb connect 127.0.0.1:62001")
 # sleep(1)
-# 可以是wifi或者usb
-# d = u2.connect("a3fdcb92")
-d = u2.connect("127.0.0.1:62001")
-# d.debug = True
-# d = u2.connect("192.168.1.102")
+# d = u2.connect("127.0.0.1:62001")
+
+# wifi连接
+# adb tcpip 62001 连接usb，操作端口，然后断开
+os.system("adb connect 10.250.181.51:62001")    # 手机启动atx-agent adb shell /data/local/tmp/atx-agent server -d
+d = u2.connect_wifi("10.250.181.51")
+d.debug = False
+print(d.info)
 # d.info
-# d.implicitly_wait(5)
+d.implicitly_wait(5)
 sleep(2)
 d.app_start("com.pikachuclientproject")
 # d.app_start("com.tencent.mobileqq")
@@ -22,17 +26,17 @@ d.app_start("com.pikachuclientproject")
 # img.save("qq_icon.png")
 # d(text="登录").click()
 # 手势登录
-sleep(2)
-d.watcher("update").when(text="全新版本").click(text="忽略")
-d.watchers.run()
-sleep(2)
-d.swipe_points([(170, 560), (170, 745),
-               (175, 930), (358, 926), (549, 931)], 0.2)
-sleep(2)
-if d(text="主页").exists:
-    print("pass")
-else:
-    print("fail")
+# sleep(2)
+# d.watcher("update").when("全新版本").click(text="忽略")
+# d.watchers.run()
+# sleep(2)
+# d.swipe_points([(170, 560), (170, 745),
+#                (175, 930), (358, 926), (549, 931)], 0.2)
+# sleep(2)
+# if d(text="主页").exists:
+#     print("pass")
+# else:
+#     print("fail")
 # d.swipe_points([(218, 576), (218, 725), (218, 868),
 #                 (362, 868), (505, 868)], 0.2)
 '''
@@ -59,5 +63,6 @@ print(d.current_app())
 # 从手机储存拉文件到当前路径
 # d.pull("/sdcard/setting.cfg", "setting.cfg")
 sleep(2)
-# d.app_stop("com.tencent.mobileqq")
+# # d.app_stop("com.tencent.mobileqq")
 d.app_stop("com.pikachuclientproject")
+sleep(1)
