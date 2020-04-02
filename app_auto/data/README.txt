@@ -1,5 +1,5 @@
-下载解压安卓环境
-  adb.exe加入到环境变量
+下载解压安卓sdk环境
+  配置sdk环境
 python3环境
 uiautomator2
   pip install --upgrade --pre uiautomator2
