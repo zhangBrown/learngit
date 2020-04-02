@@ -14,6 +14,7 @@ desired_caps['appPackage'] = 'com.android.settings'
 desired_caps['appActivity'] = '.Settings'
 desired_caps['unicodekeyboard'] = True  # 支持输入中文
 desired_caps['resetkeyboard'] = True
+desired_caps['noReset'] = True
 
 driver = webdriver.Remote('http://192.168.137.1:4723/wd/hub', desired_caps)
 
