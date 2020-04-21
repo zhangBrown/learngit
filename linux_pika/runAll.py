@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
     main()
     # 找出最新测试报告发送邮件
-    receiver = "wb.zhangweibin@mesg.corp.netease.com"
+    receiver = "xxx"
     result_dir = "./result"
     list = os.listdir(result_dir)
     list.sort(reverse=True)
