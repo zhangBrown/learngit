@@ -1,0 +1,38 @@
+git config --global user.name "Your Name"
+
+git config --global user.email "email@example.com"
+
+ssh-keygen -t rsa -C "youremail@example.com"
+添加pub内容到远程ssh keys
+
+工作区撤回
+git checkout --file
+暂存区撤回
+git reset DEAD file
+
+
+本地仓库
+mkdir test
+cd test
+git init    ls-a->.git
+touch test.txt
+git add test.txt
+git commit -m "write a file"
+版本回退
+git reset --hard HEAD^（上一个版本）
+git log
+git reset --hard a617f4 (当前版本)
+删除文件
+rm xxx
+git rm xxx
+git commit -m 'xxx'
+git push
+
+远程仓库
+远程创建项目(命令提示如何关联) ，
+创建本地仓库
+git remote add origin ssh地址
+git push -u origin master  推送并关联
+以后git push origin master推送就行
+
+git clone ssh地址
