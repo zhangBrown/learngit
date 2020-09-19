@@ -1,2 +1,2 @@
 master commit
-dev commit
+dev commit add master
