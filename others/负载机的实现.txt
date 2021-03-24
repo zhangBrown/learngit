@@ -1,0 +1,12 @@
+打开bin目录下jmeter-properties文件，搜索remote_hosts添加，使用逗号分隔。(windows)
+    remote_hosts=127.0.0.1,42.186.57.244:1099
+    启动jmeter-server.bat(本地)
+
+设置jmeter_properties同windows
+	设置remote_hosts=127.0.0.1
+	server_port=1099
+	server.rmi.localport=1099
+./jmeter-server -Djava.rmi.server.hostname=42.186.57.244(服务器上)
+	查看使用的端口，如1099
+
+打开jmeter，点击运行，选择远程启动某个ip或者全部

@@ -1,0 +1,16 @@
+配置环境变量
+JMETER_HOME=D:\apache-jmeter-3.0\apache-jmeter-3.0
+
+classpath追加%JMETER_HOME%\lib\ext\ApacheJMeter_core.jar;%JMETER_HOME%\lib\jorphan.jar;
+
+系统变量path添加%JMETER_HOME%\bin
+	    添加D:\apache-jmeter-3.0\apache-jmeter-3.0\bin
+
+进入cmd运行jmeter -n -t C:\Users\wb.zhangweibin\Desktop\察看结果树.jmx -r -l 指定目录
+	-l 记录测试结果到文件
+	-r 开启远程负载机
+生成html报告
+	jmeter -n -t 脚本.jmx -l 记录.jtl -e -o ./Report(为空或不存在)
+	jmeter -n -t C:\Users\wb.zhangweibin\Desktop\baidu.jmx -e -o E:\myreport -l E:\mytest.jtl
+
+	

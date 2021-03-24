@@ -1,0 +1,19 @@
+将其放入jmeter安装目录下的lib/ext目录
+
+打开jmeter，点击选项，Plugins Manager(已安装插件、可下载插件、可更新插件、下载)
+下载PerfMon和jpgc插件，安装后重启。
+
+ServerAgent-2.2.3(默认启动在4444端口)
+	服务器使用sh文件
+		上传到监控服务器，解压，nohup ./startAgent.sh & 或者./startAgent.sh
+		在PerfMon上设置对应监控服务器地址和端口
+		例如：42.186.57.244 4444 CPU
+	win使用bat文件
+		在PerfMon上设置对应监控服务器地址和端口
+		例如：localhost CPU
+
+其他监控指标
+	Transactions per Second（tps监控插件）
+	还有事务相关插件Response Times Over Time(事务响应时间)
+	
+		
