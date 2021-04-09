@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case.test_demo",
+    "children" : [ {
+      "name" : "test_01[query_param0]",
+      "uid" : "d19fc2d4eb2d5c81",
+      "parentUid" : "85add8c9b4194e5aeb79b5e26139c1be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617960749044,
+        "stop" : 1617960749101,
+        "duration" : 57
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_name': 'case1', 'except': 'code=200', 'api': {'method': 'GET', 'url': 'http://42.186.57.244:30001/get_jelly_sign', 'headers': '{}', 'params': '{}'}}" ]
+    }, {
+      "name" : "test_01[query_param1]",
+      "uid" : "733e5a0928b49459",
+      "parentUid" : "85add8c9b4194e5aeb79b5e26139c1be",
+      "status" : "failed",
+      "time" : {
+        "start" : 1617960749106,
+        "stop" : 1617960749171,
+        "duration" : 65
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'case_name': 'case2', 'except': 'code=400', 'api': {'method': 'GET', 'url': 'http://42.186.57.244:30001/get_jelly_sign', 'headers': '{}', 'params': '{}'}}" ]
+    } ],
+    "uid" : "case.test_demo"
+  } ]
+}

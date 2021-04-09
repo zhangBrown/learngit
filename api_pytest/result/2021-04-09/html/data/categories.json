@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '200' == '400'\n  - 200\n  + 400",
+      "children" : [ {
+        "name" : "test_01[query_param1]",
+        "uid" : "733e5a0928b49459",
+        "parentUid" : "13181cc8bfb0520d9c0e14f99249a9d0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617960749106,
+          "stop" : 1617960749171,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_name': 'case2', 'except': 'code=400', 'api': {'method': 'GET', 'url': 'http://42.186.57.244:30001/get_jelly_sign', 'headers': '{}', 'params': '{}'}}" ]
+      } ],
+      "uid" : "13181cc8bfb0520d9c0e14f99249a9d0"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

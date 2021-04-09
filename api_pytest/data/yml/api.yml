@@ -1,0 +1,21 @@
+[{
+    "case_name": "场景1",
+    "api": {
+        "method": "GET",
+        "url": "http://42.186.57.244:30001/get_jelly_sign",
+        "headers": "{}",
+        "params": "{}"
+    },
+    "except": "code=200"
+},
+{
+    "case_name": "场景2",
+    "api": {
+        "method": "GET",
+        "url": "http://42.186.57.244:30001/get_jelly_sign",
+        "headers": "{}",
+        "params": "{}"
+    },
+    "except": "code=400"
+}
+]

@@ -1,0 +1,72 @@
+{
+  "uid" : "733e5a0928b49459",
+  "name" : "test_01[query_param1]",
+  "fullName" : "case.test_demo.TestDemo#test_01",
+  "historyId" : "6fd1943f1499a4d65f1af3a59ac83a34",
+  "time" : {
+    "start" : 1617960749106,
+    "stop" : 1617960749171,
+    "duration" : 65
+  },
+  "descriptionHtml" : "<h2>case2</h2>",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '200' == '400'\n  - 200\n  + 400",
+  "statusTrace" : "self = <api_pytest.case.test_demo.TestDemo object at 0x000001DC78431508>\nquery_param = {'api': {'headers': '{}', 'method': 'GET', 'params': '{}', 'url': 'http://42.186.57.244:30001/get_jelly_sign'}, 'case_name': 'case2', 'except': 'code=400'}\n\n    @allure.story('----case_demo1----')\n    @pytest.mark.parametrize('query_param', [query_param for query_param in YUM_FILE])\n    def test_01(self, query_param):\n        except_code = query_param[\"except\"].split(\"=\", 1)[1]\n        allure.dynamic.description_html('<h2>{}</h2>'.format(query_param['case_name']))\n    \n        res = self.send_api(query_param)\n        res = json.loads(res)\n>       assert str(res.get(\"code\"))==except_code\nE       AssertionError: assert '200' == '400'\nE         - 200\nE         + 400\n\ncase\\test_demo.py:31: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "----feature----"
+  }, {
+    "name" : "story",
+    "value" : "----case_demo1----"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemo"
+  }, {
+    "name" : "host",
+    "value" : "GIH-D-9784"
+  }, {
+    "name" : "thread",
+    "value" : "4484-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "query_param",
+    "value" : "{'case_name': 'case2', 'except': 'code=400', 'api': {'method': 'GET', 'url': 'http://42.186.57.244:30001/get_jelly_sign', 'headers': '{}', 'params': '{}'}}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "733e5a0928b49459.json",
+  "parameterValues" : [ "{'case_name': 'case2', 'except': 'code=400', 'api': {'method': 'GET', 'url': 'http://42.186.57.244:30001/get_jelly_sign', 'headers': '{}', 'params': '{}'}}" ]
+}

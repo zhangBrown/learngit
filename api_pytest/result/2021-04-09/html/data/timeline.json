@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "GIH-D-9784",
+    "children" : [ {
+      "name" : "4484-MainThread",
+      "children" : [ {
+        "name" : "test_01[query_param0]",
+        "uid" : "d19fc2d4eb2d5c81",
+        "parentUid" : "c1d7f1dbfe8e18ee03acb26a6e361baf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617960749044,
+          "stop" : 1617960749101,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_name': 'case1', 'except': 'code=200', 'api': {'method': 'GET', 'url': 'http://42.186.57.244:30001/get_jelly_sign', 'headers': '{}', 'params': '{}'}}" ]
+      }, {
+        "name" : "test_01[query_param1]",
+        "uid" : "733e5a0928b49459",
+        "parentUid" : "c1d7f1dbfe8e18ee03acb26a6e361baf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617960749106,
+          "stop" : 1617960749171,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_name': 'case2', 'except': 'code=400', 'api': {'method': 'GET', 'url': 'http://42.186.57.244:30001/get_jelly_sign', 'headers': '{}', 'params': '{}'}}" ]
+      } ],
+      "uid" : "c1d7f1dbfe8e18ee03acb26a6e361baf"
+    } ],
+    "uid" : "6a16807b494515b496ad5eec2dd26ce0"
+  } ]
+}
