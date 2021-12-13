@@ -25,7 +25,7 @@ itsdangerous==1.1.0
 jdcal==1.4
 Jinja2==2.10.1
 logzero==1.5.0
-lxml==4.3.3
+lxml==4.6.5
 MarkupSafe==1.1.1
 more-itertools==6.0.0
 objectpath==0.6.1
