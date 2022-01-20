@@ -16,7 +16,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.2
 MarkupSafe==2.0.1
 packaging==21.3
-pipenv==2021.5.29
+pipenv==2022.1.8
 platformdirs==2.4.0
 pluggy==1.0.0
 py==1.11.0
