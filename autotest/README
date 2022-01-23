@@ -1,0 +1,4 @@
+# make mysql
+# CREATE DATABASE `autotest` CHARACTER SET utf8 COLLATE utf8_general_ci;
+python manage.py makemigrations
+python manage.py migrate
