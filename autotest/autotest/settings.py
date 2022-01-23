@@ -81,7 +81,8 @@ DATABASES = {
         # 'NAME': BASE_DIR / 'db.sqlite3',
         'NAME': 'autotest',
         'USER': 'root',
-        'HOST': '192.168.1.103',
+        'PASSWORD': '123456',
+        'HOST': 'localhost',
         'PORT': '3306'
     }
 }
