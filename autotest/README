@@ -2,3 +2,7 @@
 # CREATE DATABASE `autotest` CHARACTER SET utf8 COLLATE utf8_general_ci;
 python manage.py makemigrations
 python manage.py migrate
+
+# add project to admin
+vim models.py  # create db
+vim admin.py  # show list_display and register
