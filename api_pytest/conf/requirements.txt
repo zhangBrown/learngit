@@ -13,7 +13,7 @@ funcsigs==1.0.2
 idna==2.10
 importlib-metadata==2.1.1
 iniconfig==1.1.1
-lxml==4.6.3
+lxml==4.9.1
 more-itertools==5.0.0
 namedlist==1.8
 openpyxl==3.0.7
