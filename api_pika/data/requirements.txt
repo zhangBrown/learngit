@@ -19,4 +19,4 @@ redis==3.4.1
 requests==2.23.0
 shellescape==3.8.1
 urllib3==1.25.8
-Werkzeug==1.0.0
+Werkzeug==2.2.3
